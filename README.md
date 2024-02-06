@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
