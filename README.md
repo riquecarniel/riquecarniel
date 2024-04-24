@@ -1,8 +1,9 @@
-# Hi there 👋
-
-Bem-Vindo (a) ao meu GitHub.
-
-Sou o Henrique Carniel, e atuo na área de T.I, especificamente na área de Desenvolvimento Web full-stack e automatização de tarefas.
+<h2 align="left">Hello there, I'm Henrique Carniel - aka riquecarniel 👋</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/henrique-carniel-fonseca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcarniel" height="30" width="40" /></a>
+  <a href="https://instagram.com/riquecarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpcarniel" height="30" width="40" /></a>
+</p>
+<h2 align="left">Full Stack Developer, seeking to learn a new thing everyday</h2>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
